@@ -19,7 +19,7 @@ namespace SapirGame.PSG.Runtime
             if (amount <= 0)
                 throw new ArgumentOutOfRangeException(nameof(amount));
 
-            if (amount >= Balance)
+            if (amount > Balance)
                 return false;
 
             Balance -= amount;
