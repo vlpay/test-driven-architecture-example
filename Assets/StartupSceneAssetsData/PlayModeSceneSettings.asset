@@ -13,5 +13,5 @@ MonoBehaviour:
   m_Name: PlayModeSceneSettings
   m_EditorClassIdentifier: Untillate.StartupSceneDefiner.Editor::Untillate.StartupSceneDefiner.Editor.PlayModeOverriderSettings
   _defaultSceneIndex: 0
-  _overrideCurrentScene: 1
+  _overrideCurrentScene: 0
   _ignoreNameSuffix: Test
