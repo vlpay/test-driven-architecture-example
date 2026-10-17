@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 55ecaedc3865b494d8313a293298bdfd
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 280300
+  packageName: Startup Scene Definer in Editor
+  packageVersion: 1.0.0
+  assetPath: Assets/Untillate.StartupSceneDefiner/Documentation/UserGuide.pdf
+  uploadId: 652134

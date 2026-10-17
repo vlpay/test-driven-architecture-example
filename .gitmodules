@@ -1,0 +1,3 @@
+[submodule "Assets/AnimatedUI"]
+	path = Assets/AnimatedUI
+	url = https://github.com/vlpay/unity-simple-ui-animations.git

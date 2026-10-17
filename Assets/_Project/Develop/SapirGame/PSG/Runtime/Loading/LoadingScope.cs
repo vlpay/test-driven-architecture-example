@@ -1,0 +1,13 @@
+﻿using VContainer;
+using VContainer.Unity;
+
+namespace SapirGame.PSG.Runtime.Loading
+{
+    public sealed class LoadingScope : LifetimeScope
+    {
+        protected override void Configure(IContainerBuilder builder)
+        {
+            builder.RegisterEntryPoint<LoadingFlow>();
+        }
+    }
+}

@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 7f8c8b2dd763b0243af1327df7815c50
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 280300
+  packageName: Startup Scene Definer in Editor
+  packageVersion: 1.0.0
+  assetPath: Assets/Untillate.StartupSceneDefiner/Editor/PlayModeOverriderSettings.cs
+  uploadId: 652134

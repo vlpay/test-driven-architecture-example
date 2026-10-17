@@ -1,0 +1,17 @@
+{
+  "name": "com.untillate.playmodeoverride",
+  "displayName": "Override Play Mode Scene",
+  "author": {
+    "name": "Until Late Development"
+  },
+  "version": "1.0.0",
+  "description": "Override Play Mode Scene to Startup scene.",
+  "unity": "2019.3",
+  "keywords": [
+    "Override",
+    "Play Mode",
+    "Scene",
+    "Startup"
+  ],
+  "dependencies": {}
+}

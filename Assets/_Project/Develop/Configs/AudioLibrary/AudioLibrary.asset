@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c9f7618e4b154081bdfc233be762d1e6, type: 3}
+  m_Name: AudioLibrary
+  m_EditorClassIdentifier: Assembly-CSharp::_Project.Dev.Scripts.AudioSystem.AudioLibrary
+  _uiSounds:
+  - clip: {fileID: 8300000, guid: 3540b742408bc474cb87c9415e010800, type: 3}
+    volume: 0.5
+    priority: 10
+    type: 0
+  - clip: {fileID: 8300000, guid: b870e1e80f78b5c46920666cf1de2686, type: 3}
+    volume: 0.5
+    priority: 10
+    type: 1
+  - clip: {fileID: 8300000, guid: 7dfe59011739cfe48af9ea7de4165bbc, type: 3}
+    volume: 1.5
+    priority: 2
+    type: 7
+  - clip: {fileID: 8300000, guid: f6eaaee421d30724ba53af43e74e5d38, type: 3}
+    volume: 1
+    priority: 1
+    type: 5
+  - clip: {fileID: 8300000, guid: 005dbec31039a8b49a555f918672eb45, type: 3}
+    volume: 0.3
+    priority: 200
+    type: 2
+  _music: []

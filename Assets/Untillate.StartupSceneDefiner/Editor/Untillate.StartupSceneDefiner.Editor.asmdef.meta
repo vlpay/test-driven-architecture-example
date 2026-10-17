@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 287f4484d2222ae43b832d5d368f6716
+AssemblyDefinitionImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 280300
+  packageName: Startup Scene Definer in Editor
+  packageVersion: 1.0.0
+  assetPath: Assets/Untillate.StartupSceneDefiner/Editor/Untillate.StartupSceneDefiner.Editor.asmdef
+  uploadId: 652134
