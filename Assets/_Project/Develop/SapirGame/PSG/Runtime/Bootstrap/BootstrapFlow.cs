@@ -34,7 +34,6 @@ namespace SapirGame.PSG.Runtime.Bootstrap
             await _loadingService.BeginLoading(_audioMixerService as ILoadUnit);
             await _loadingService.BeginLoading(_audioPlayer as ILoadUnit);
 
-            _sceneManager.LoadScene(RuntimeConstants.Scenes.Loading).Forget();
         }
     }
 }
