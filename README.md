@@ -51,7 +51,7 @@ EditMode/PlayMode describe **where** a test runs. Unit/integration describe **wh
 
 ## Русский
 
-**Быстрая навигация:** [Структура проекта](#project-map-ru) · [Запуск тестов](#run-tests-ru) · [Шаблоны EditMode](#editmode-patterns-ru) · [Примеры PlayMode](#playmode-examples-ru)
+**Быстрая навигация:** [Структура проекта](#структура-проекта-ru) · [Запуск тестов](#запуск-тестов-ru) · [Шаблоны EditMode](#шаблоны-editmode-ru) · [Примеры PlayMode](#примеры-playmode-ru)
 
 ### Структура проекта (RU)
 
