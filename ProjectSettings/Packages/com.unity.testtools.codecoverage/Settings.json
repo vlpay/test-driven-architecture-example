@@ -1,5 +1,21 @@
 {
     "m_Dictionary": {
-        "m_DictionaryValues": []
+        "m_DictionaryValues": [
+            {
+                "type": "System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089",
+                "key": "IncludeAssemblies",
+                "value": "{\"m_Value\":\"Assembly-CSharp,Assembly-CSharp-Editor,Assembly-CSharp-firstpass,IngameDebugConsole.Editor,IngameDebugConsole.Runtime,PSG.Runtime,PSG.Shared,Sirenix.OdinInspector.Modules.Unity.Addressables,Sirenix.OdinInspector.Modules.UnityLocalization,Sirenix.OdinInspector.Modules.UnityLocalization.Editor,Sirenix.OdinInspector.Modules.UnityMathematics,Untillate.StartupSceneDefiner.Editor,VoxelBusters.CoreLibrary,VoxelBusters.CoreLibrary.Editor,VoxelBusters.CoreLibrary.Editor.Experimental,VoxelBusters.CoreLibrary.Editor.NativePlugins,VoxelBusters.CoreLibrary.NativePlugins,VoxelBusters.CoreLibrary.NativePlugins.AndroidModule,VoxelBusters.CoreLibrary.NativePlugins.iOSModule,VoxelBusters.CoreLibrary.Parser,VoxelBusters.EssentialKit,VoxelBusters.EssentialKit.AndroidModule,VoxelBusters.EssentialKit.Demo,VoxelBusters.EssentialKit.Editor,VoxelBusters.EssentialKit.Editor.Build.iOSModule,VoxelBusters.EssentialKit.iOSModule,VoxelBusters.EssentialKit.SimulatorModule\"}"
+            },
+            {
+                "type": "System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089",
+                "key": "Path",
+                "value": "{\"m_Value\":\"{ProjectPath}\"}"
+            },
+            {
+                "type": "System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089",
+                "key": "HistoryPath",
+                "value": "{\"m_Value\":\"{ProjectPath}\"}"
+            }
+        ]
     }
 }
